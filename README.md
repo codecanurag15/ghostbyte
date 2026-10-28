@@ -51,7 +51,7 @@ Hide text or files inside images, audio, video and almost any other file, with o
 ## 🚀 Install
 
 ```bash
-git clone https://github.com/<your-username>/ghostbyte.git
+git clone https://github.com/codecanurag15/ghostbyte.git
 cd ghostbyte
 
 pip install pillow          # needed for images
